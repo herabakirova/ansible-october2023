@@ -1,0 +1,7 @@
+master ansible_host=165.227.117.90
+
+worker1 ansible_host=45.55.198.101
+
+worker2 ansible_host=3.15.142.38 ansible_user=ec2-user
+
+worker3 ansible_host=18.116.21.154 ansible_user=ec2-user
